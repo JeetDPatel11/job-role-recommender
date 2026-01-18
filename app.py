@@ -1,6 +1,5 @@
 import streamlit as st
-st.markdown("# ✅ App is running")
-
+st.write("")
 
 
 import streamlit as st
