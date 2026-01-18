@@ -1,5 +1,6 @@
 import streamlit as st
-st.write("DEBUG: app.py started successfully")
+st.markdown("# ✅ App is running")
+
 
 
 import streamlit as st
